@@ -385,7 +385,6 @@ font-size:15px;
    
 }
  input{
-    background-color: #343534;
     padding: 1em 1.2em;
     border-radius: 15px;
     border:none;
@@ -399,7 +398,6 @@ font-size:15px;
 }
 .text-area textarea{
     border-radius: 15px;
-    background-color: #343534;
     padding: 1em 1.2em;
     border:none;
     height: 150px;
